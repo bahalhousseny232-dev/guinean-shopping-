@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Guinean Shopping",
+    "slug": "guinean-shopping",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.bahalhousseny.guineanshopping"
+    },
+    "ios": {
+      "bundleIdentifier": "com.bahalhousseny.guineanshopping"
+    }
+  }
+}
