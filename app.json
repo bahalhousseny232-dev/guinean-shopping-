@@ -13,6 +13,12 @@
     },
     "ios": {
       "bundleIdentifier": "com.bahalhousseny.guineanshopping"
-    }
+    },
+"extra": {
+  "eas": {
+    "projectId": "e25bc67b-d953-4319-9ff9-b063a77dff8c"
+  }
+}
+
   }
 }
